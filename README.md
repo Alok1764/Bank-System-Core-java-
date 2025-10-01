@@ -3,7 +3,7 @@
 A simple yet extensible Bank Management System built in Java, with data persistence handled via MySQL using a DAO (Data Access Object) Layer.
 This project demonstrates Core Java concepts, JDBC, OOP design, and DAO patterns, making it suitable for both learning and practical usage.
 
- Features
+ **Features**
 
  User Authentication
 
@@ -23,7 +23,7 @@ Transfer money between accounts
 
 View complete transaction log for each account
 
-🗄 Database Persistence
+ Database Persistence
 
 Data stored securely in MySQL
 
